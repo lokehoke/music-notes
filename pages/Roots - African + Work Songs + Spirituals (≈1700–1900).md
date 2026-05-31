@@ -1,3 +1,10 @@
+﻿---
+type: direction
+branch: american
+tags:
+  - direction
+  - american
+---
 - Key ideas:
 	- African musical traditions
 	- Work songs

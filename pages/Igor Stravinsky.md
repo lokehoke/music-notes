@@ -1,4 +1,0 @@
-- Inspired by:
-	- [[Early Jazz (≈1910–1930)]]
-- Part of:
-	- [[Neoclassicism (≈1920–1950)]]

@@ -1,3 +1,10 @@
+﻿---
+type: direction
+branch: european
+tags:
+  - direction
+  - european
+---
 - Resources:
 	- https://en.wikipedia.org/wiki/Romanticism
 - Key ideas:
@@ -5,10 +12,11 @@
 	- Delayed resolution of tension
 	- Weakening of tonal stability
 - Participants:
-	- [[Franz Schubert]]
-	- [[Richard Wagner]]
-	- [[Richard Strauss]]
-	- [[Gustav Mahler]]
+	- [[Franz Schubert (1797–1828)]]
+	- [[Richard Wagner (1813–1883)]]
+	- [[Richard Strauss (1864–1949)]]
+	- [[Gustav Mahler (1860–1911)]]
+	- [[Sergei Rachmaninoff (1873–1943)]]
 - Compared with Classical:
 	- Classical = clarity and proportion
 	- Romantic = emotional expansion and instability

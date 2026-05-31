@@ -1,2 +1,0 @@
-- Part of:
-	- [[Second Viennese School 1908–1930]]

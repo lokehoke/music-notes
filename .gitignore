@@ -1,7 +1,7 @@
 .tmp.drivedownload/
 .tmp.driveupload/
-logseq/bak/
-logseq/.recycle/
-logseq/.tmp/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
 .DS_Store
 Thumbs.db

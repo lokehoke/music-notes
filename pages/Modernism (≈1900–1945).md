@@ -1,3 +1,10 @@
+﻿---
+type: direction
+branch: european
+tags:
+  - direction
+  - european
+---
 - Examples:
 	- [[Second Viennese School 1908–1930]]
 	- [[Impressionism (≈1890–1920)]]

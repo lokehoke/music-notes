@@ -1,4 +1,0 @@
-- Examples:
-	- {{video https://www.youtube.com/watch?v=erXG9vnN-GI&list=RDerXG9vnN-GI&start_radio=1}}
-- Part of:
-	- [[Baroque period (≈1600–1750)]]

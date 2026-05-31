@@ -1,2 +1,0 @@
-- Part of:
-	- [[Romantic period (≈1820–1900)]]

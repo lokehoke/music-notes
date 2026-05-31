@@ -1,0 +1,18 @@
+- Resources:
+	- https://en.wikipedia.org/wiki/Romanticism
+- Key ideas:
+	- Increased **chromatic harmony**
+	- Delayed resolution of tension
+	- Weakening of tonal stability
+- Participants:
+	- [[Franz Schubert]]
+	- [[Richard Wagner]]
+	- [[Richard Strauss]]
+	- [[Gustav Mahler]]
+- Compared with Classical:
+	- Classical = clarity and proportion
+	- Romantic = emotional expansion and instability
+- Prev:
+	- [[Classical period (≈1750–1820)]]
+- Next:
+	- [[Modernism (≈1900–1945)]]

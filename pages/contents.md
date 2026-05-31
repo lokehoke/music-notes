@@ -1,0 +1,15 @@
+- Main map:
+	- [[Music]]
+	- [[FILM MUSIC]]
+- Classical timeline:
+	- [[Medieval Period (≈500–1400)]]
+	- [[Renaissance (≈1400–1600)]]
+	- [[Baroque period (≈1600–1750)]]
+	- [[Classical period (≈1750–1820)]]
+	- [[Romantic period (≈1820–1900)]]
+	- [[Modernism (≈1900–1945)]]
+- Jazz timeline:
+	- [[Roots: African + Work Songs + Spirituals (≈1700–1900)]]
+	- [[BLUES (≈1890–1920)]]
+	- [[Early Jazz (≈1910–1930)]]
+	- [[Swing Era (≈1930–1945)]]

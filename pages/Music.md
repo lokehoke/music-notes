@@ -1,0 +1,4 @@
+- Resources:
+	- Сайт с жанрами: https://everynoise.com/
+- Contents:
+	- [[contents]]

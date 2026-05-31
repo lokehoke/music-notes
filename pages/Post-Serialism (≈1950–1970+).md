@@ -1,0 +1,5 @@
+- Participants:
+	- [[Pierre Boulez]]
+	- [[Karlheinz Stockhausen]]
+- Prev:
+	- [[Second Viennese School 1908–1930]]

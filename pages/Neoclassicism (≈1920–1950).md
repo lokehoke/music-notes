@@ -1,0 +1,8 @@
+- Key ideas:
+	- Return to **Classical forms with modern harmony and rhythm**
+	- Reaction against Romantic excess and Modernist chaos
+	- Order + modern sound language
+- Participants:
+	- [[Igor Stravinsky]]
+- Part of:
+	- [[Modernism (≈1900–1945)]]

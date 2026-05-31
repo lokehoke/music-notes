@@ -1,0 +1,10 @@
+- Participants:
+	- [[Wolfgang Amadeus Mozart]]
+	- [[Ludwig van Beethoven]]
+- Compared with Baroque:
+	- Baroque: many voices → system in motion → complexity
+	- Classical: one voice → structured dialogue → clarity
+- Prev:
+	- [[Baroque period (≈1600–1750)]]
+- Next:
+	- [[Romantic period (≈1820–1900)]]

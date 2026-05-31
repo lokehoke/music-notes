@@ -1,0 +1,6 @@
+- Examples:
+	- {{video https://www.youtube.com/watch?v=dU7k-hiiVjw}}
+- Prev:
+	- [[Medieval Period (≈500–1400)]]
+- Next:
+	- [[Baroque period (≈1600–1750)]]

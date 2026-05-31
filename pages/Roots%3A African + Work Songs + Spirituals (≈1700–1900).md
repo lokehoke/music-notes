@@ -1,0 +1,6 @@
+- Key ideas:
+	- African musical traditions
+	- Work songs
+	- Spirituals
+- Next:
+	- [[BLUES (≈1890–1920)]]

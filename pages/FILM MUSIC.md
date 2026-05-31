@@ -1,0 +1,5 @@
+- Inspired by:
+	- [[Modernism (≈1900–1945)]]
+	- [[Post-bop / Modal jazz (≈1950–1970)]]
+- Participants:
+	- [[Angelo Badalamenti]]

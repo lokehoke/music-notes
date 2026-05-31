@@ -1,0 +1,10 @@
+- Key ideas:
+	- Weakening of functional harmony
+	- Reduced sense of tonal resolution
+	- Music becomes non-directional
+	- Chords do not resolve traditionally
+- Participants:
+	- [[Claude Debussy]]
+	- [[Maurice Ravel]]
+- Part of:
+	- [[Modernism (≈1900–1945)]]

@@ -1,0 +1,10 @@
+- Key ideas:
+	- Blues: steady rhythm
+	- Jazz: swing rhythm and syncopation
+- Participants:
+	- [[Louis Armstrong]]
+	- [[Duke Ellington]]
+- Prev:
+	- [[BLUES (≈1890–1920)]]
+- Next:
+	- [[Swing Era (≈1930–1945)]]

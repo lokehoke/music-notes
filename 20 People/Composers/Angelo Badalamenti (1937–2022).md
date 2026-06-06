@@ -10,3 +10,7 @@ tags:
 ---
 - Part of:
 	- [[FILM MUSIC]]
+- TODO:
+	- Add a short biography.
+	- Add core traits and listening focus.
+	- Add representative works or recordings.

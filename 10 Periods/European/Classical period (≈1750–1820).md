@@ -15,3 +15,7 @@ tags:
 	- [[Baroque period (≈1600–1750)]]
 - Next:
 	- [[Romantic period (≈1820–1900)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

@@ -12,3 +12,7 @@ tags:
 	- [[Bebop (≈1940s)]]
 - Related:
 	- [[FILM MUSIC]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

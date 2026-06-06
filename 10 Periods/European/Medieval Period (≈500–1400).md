@@ -13,3 +13,7 @@ tags:
 	- [YouTube example](https://www.youtube.com/watch?v=KA6oq_UYbyA)
 - Next:
 	- [[Renaissance (≈1400–1600)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

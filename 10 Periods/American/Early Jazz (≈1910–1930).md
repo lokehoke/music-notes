@@ -15,3 +15,7 @@ tags:
 	- [[BLUES (≈1890–1920)]]
 - Next:
 	- [[Swing Era (≈1930–1945)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

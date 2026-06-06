@@ -11,3 +11,7 @@ tags:
 - Inspired by:
 	- [[Bebop (≈1940s)]]
 	- [[Post-bop and Modal jazz (≈1950–1970)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

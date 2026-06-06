@@ -13,3 +13,7 @@ tags:
 	- [[BLUES (≈1890–1920)]]
 - Related:
 	- [[Jack White (b. 1975)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

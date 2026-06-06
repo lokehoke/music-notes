@@ -11,3 +11,7 @@ tags:
 	- [[Medieval Period (≈500–1400)]]
 - Next:
 	- [[Baroque period (≈1600–1750)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

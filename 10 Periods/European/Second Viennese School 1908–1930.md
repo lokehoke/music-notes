@@ -17,3 +17,7 @@ tags:
 	- [[Modernism (≈1900–1945)]]
 - Next:
 	- [[Post-Serialism (≈1950–1970+)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

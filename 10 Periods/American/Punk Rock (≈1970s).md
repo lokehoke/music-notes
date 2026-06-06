@@ -14,3 +14,7 @@ tags:
 - Related:
 	- [[Alternative Rock (≈1980s–1990s)]]
 	- [[Jack White (b. 1975)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

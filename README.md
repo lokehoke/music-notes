@@ -9,11 +9,7 @@ The vault is built as a graph of musical periods, genres, composers, musicians, 
 1. Install Obsidian.
 2. Open Obsidian.
 3. Choose **Open folder as vault**.
-4. Select this folder:
-
-```text
-G:\My Drive\life\music_conspect
-```
+4. Select the folder where this repository was cloned or downloaded.
 
 Obsidian should load the vault settings from `.obsidian/`.
 

@@ -9,27 +9,29 @@ The vault is built as a graph of musical periods, genres, composers, musicians, 
 1. Install Obsidian.
 2. Open Obsidian.
 3. Choose **Open folder as vault**.
-4. Select this folder:
-
-```text
-G:\My Drive\notes
-```
+4. Select the folder where this repository was cloned or downloaded.
 
 Obsidian should load the vault settings from `.obsidian/`.
 
 ## Folder Structure
 
 ```text
-pages/      Notes and graph nodes
-assets/     Images and media used by notes
-.obsidian/  Obsidian vault settings
+00 Index/      Vault-level indexes and TODOs
+10 Periods/    Period, movement, and genre pages
+20 People/     Composer and musician pages
+30 Works/      Individual work pages, grouped by composer when useful
+40 Topics/     Concept pages and future topic notes
+50 Courses/    Course notes and study paths
+60 Resources/  Books, websites, playlists, and reference pages
+assets/        Scores, books, and images used by notes
+.obsidian/     Obsidian vault settings
 ```
 
 ## How to Use
 
 - Open **Graph View** to see connections between periods, genres, and people.
-- Open any page in `pages/` to read or edit a note.
-- Use `[[Page Name]]` wikilinks to connect notes.
+- Open any Markdown page to read or edit a note.
+- Use Obsidian wikilinks to connect notes.
 - Use normal Markdown links for external resources and YouTube videos.
 - Keep pages connected to the graph unless a page is intentionally only a reference page.
 

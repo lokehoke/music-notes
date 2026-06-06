@@ -1,0 +1,45 @@
+---
+type: work
+branch: european
+tags:
+  - work
+  - baroque
+  - european
+  - guitar
+---
+- Sheet music with TAB:
+	- ![[assets/scores/bach-bourree-bwv-996-werner.pdf]]
+- Examples:
+	- ![](https://www.youtube.com/watch?v=Ipo0ycATcNY)
+	- [YouTube: Bourree BWV 996 by Bach, lesson and performance for classical guitar](https://www.youtube.com/watch?v=Ipo0ycATcNY)
+- Analysis:
+	- Key:
+		- Main key: E minor.
+		- Key signature: one sharp, F#.
+		- E minor and G major share the same key signature, so the tonal center is recognized by where phrases resolve.
+	- Relative major:
+		- G major is the relative major of E minor.
+		- E minor: E-G-B.
+		- G major: G-B-D.
+		- The first section moves from E minor toward G major, which is typical for a baroque dance in a minor key.
+	- Important harmonic signs:
+		- B or B7 usually points back to E minor.
+		- D# is important because it resolves upward to E.
+		- D or D7 usually points toward G major.
+	- How to identify the harmony:
+		- Do not treat every single note as a separate chord.
+		- Look at bass notes and notes that land on strong beats.
+		- In this piece, chords are often implied by two moving voices instead of being played as full block chords.
+	- Core chord vocabulary:
+		- E minor: E-G-B.
+		- B major / B7: B-D#-F# / B-D#-F#-A.
+		- G major: G-B-D.
+		- D major / D7: D-F#-A / D-F#-A-C.
+		- A minor: A-C-E.
+		- C major: C-E-G.
+	- Listening focus:
+		- E minor sounds like the darker home key.
+		- G major sounds like the brighter related area.
+		- The main question is not only "what chord is this?", but "where is this phrase trying to resolve?".
+- Part of:
+	- [[Johann Sebastian Bach (1685–1750)]]

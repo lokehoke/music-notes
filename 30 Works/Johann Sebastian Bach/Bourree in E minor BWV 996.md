@@ -10,8 +10,15 @@ tags:
 - Sheet music with TAB:
 	- ![[assets/scores/bach-bourree-bwv-996-werner.pdf]]
 - Examples:
-	- ![](https://www.youtube.com/watch?v=Ipo0ycATcNY)
-	- [YouTube: Bourree BWV 996 by Bach, lesson and performance for classical guitar](https://www.youtube.com/watch?v=Ipo0ycATcNY)
+	- Classical guitar:
+		- ![](https://www.youtube.com/watch?v=Ipo0ycATcNY)
+		- [YouTube: Bourree BWV 996 by Bach, lesson and performance for classical guitar](https://www.youtube.com/watch?v=Ipo0ycATcNY)
+	- Baroque lute / lute-like color:
+		- ![](https://www.youtube.com/watch?v=BJ83EBKH598)
+		- [YouTube: Bourree BWV 996 on lute](https://www.youtube.com/watch?v=BJ83EBKH598)
+	- Piano:
+		- ![](https://www.youtube.com/watch?v=Kn9tosZhbT0)
+		- [YouTube: Bourree BWV 996 on piano](https://www.youtube.com/watch?v=Kn9tosZhbT0)
 - Analysis:
 	- Key:
 		- Main key: E minor.

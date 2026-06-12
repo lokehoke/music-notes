@@ -14,3 +14,7 @@ tags:
 - Next:
 	- [[Garage Rock (≈1960s)]]
 	- [[Blues Rock (≈1960s–1970s)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

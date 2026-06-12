@@ -10,6 +10,6 @@ tags:
 - Books:
 	- PDF:
 		- ![[assets/books/alex-ross-the-rest-is-noise-ru.pdf]]
-	- [Alex Ross - The Rest Is Noise: Listening to the Twentieth Century](https://www.therestisnoise.com/)
-	- [Alex Ross - The Rest Is Noise audio guides](https://therestisnoise.com/audio-guides/)
-	- [Russian edition: The Rest Is Noise, AST / Corpus](https://ast.ru/book/dalshe-shum-slushaya-xx-vek-012517/)
+- TODO:
+	- Organize resources by topic or study path.
+	- Add short notes on how each resource should be used.

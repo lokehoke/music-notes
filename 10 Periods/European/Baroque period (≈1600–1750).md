@@ -15,3 +15,7 @@ tags:
 	- [[Renaissance (≈1400–1600)]]
 - Next:
 	- [[Classical period (≈1750–1820)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

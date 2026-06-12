@@ -13,3 +13,7 @@ tags:
 	- [[Igor Stravinsky (1882–1971)]]
 - Part of:
 	- [[Modernism (≈1900–1945)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

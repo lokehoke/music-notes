@@ -12,3 +12,7 @@ tags:
 	- [[Swing Era (≈1930–1945)]]
 - Next:
 	- [[Post-bop and Modal jazz (≈1950–1970)]]
+- TODO:
+	- Expand the historical overview.
+	- Add representative composers, works, or recordings.
+	- Add listening focus and links to related periods.

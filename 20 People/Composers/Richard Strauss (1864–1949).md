@@ -10,3 +10,7 @@ tags:
 ---
 - Part of:
 	- [[Romantic period (≈1820–1900)]]
+- TODO:
+	- Add a short biography.
+	- Add core traits and listening focus.
+	- Add representative works or recordings.

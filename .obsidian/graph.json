@@ -3,29 +3,29 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#person  ",
+      "query": "tag:#musician  ",
       "color": {
         "a": 1,
-        "rgb": 5399264
-      }
-    },
-    {
-      "query": "tag:#direction  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
+        "rgb": 14701138
       }
     },
     {
       "query": "tag:#work  ",
       "color": {
         "a": 1,
-        "rgb": 14701228
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#direction  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 10,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 16.3667820069204,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.6826112273612825,
+  "linkDistance": 30,
+  "scale": 0.8560484607291432,
   "close": false
 }
